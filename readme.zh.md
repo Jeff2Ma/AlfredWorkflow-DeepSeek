@@ -1,5 +1,7 @@
 # AlfredWorkflow-DeepSeek
 
+![DeepSeek And Alfred](images/about/deepseekaflred.png)
+
 DeepSeek 的 Alfred Workflow（Alfred 工作流 / 插件）。灵感来源于 [官方 ChatGPT Workflow](https://alfred.app/workflows/alfredapp/openai/)。
 
 ## 下载
